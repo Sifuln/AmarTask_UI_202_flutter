@@ -4,7 +4,9 @@ A new Flutter project.
 
 # Design Overview
 
-<img src="https://github.com/Sifuln/AmarTask_UI_202_flutter/blob/main/Screenshot_1632894726.png" alt="Design" style="max-width: 100%" width:"300px" height: "500px">
+<img src="https://github.com/Sifuln/AmarTask_UI_202_flutter/blob/main/Screenshot_1632894726.png" alt="Design" style="max-width: 100%;" width:"300px" height: "500px">
+
+
 
 ## Getting Started
 
