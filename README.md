@@ -3,7 +3,7 @@
 A new Flutter project.
 
 # Design Overview
-<img src="https://github.com/Sifuln/myfirstUI201-flutter/blob/main/output.png" alt="Design 1" style="max-width: 100%;" width="300px" height="500px">
+<img src="https://github.com/Sifuln/AmarTask_UI_202_flutter/blob/main/Screenshot_1632894726.png" alt="Design 1" style="max-width: 100%;" width="300px" height="500px">
 
 
 
